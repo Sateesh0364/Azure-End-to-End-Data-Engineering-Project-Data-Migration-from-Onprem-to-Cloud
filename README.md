@@ -24,7 +24,7 @@ In this project, I utilized the following Azure services to build a secure and e
 - **Azure Databricks**: Transforms data between the Bronze, Silver, and Gold layers.
 - **Azure Synapse Analytics**: Provides an analytics-ready data model with automatically updating views.
 - **Azure Data Lake Gen2**: Serves as the data storage platform, organized in Bronze, Silver, and Gold layers.
-- **Power BI (Optional)**: For visualizing and analyzing the data after processing in Synapse.
+- **Power BI (Optional)**: For visualizing and analyzing the data.
 
 ## Architecture
 This pipeline follows the Bronze-Silver-Gold data lake model:
