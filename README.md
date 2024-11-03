@@ -14,6 +14,8 @@ In this project, I used the following Azure services to implement a secure and r
 
   ![Azurearchi](https://github.com/user-attachments/assets/80f0ad47-7ed6-4171-89d6-1ee47f4a518c)
 
+![image](https://github.com/user-attachments/assets/8d3a1156-cc78-44e5-b546-d7403d3c9d70)
+
 ## Project Overview
 In this project, I utilized the following Azure services to build a secure and efficient ETL pipeline:
 
